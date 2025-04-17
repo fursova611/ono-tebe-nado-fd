@@ -15,7 +15,7 @@ img {
 .header__menu {
     font-size: 18px;
     text-underline-offset: 4px;
-    width :392px ;
+    width: 392px;
 }
 
 .header__links-list {
@@ -192,7 +192,7 @@ img {
 
 .card__title {
     color: white;
-    font-weight: 500;
+    font-weight: 400;
     font-size: 22px;
     text-decoration: underline;
     text-underline-offset: 3px;
@@ -208,7 +208,7 @@ img {
     line-height: 1.2;
     position: relative;
     z-index: 2;
-    font-weight:400;
+    font-weight: 300;
 }
 
 .lots__look-more-link {
@@ -275,7 +275,7 @@ img {
     text-underline-offset: 4px;
 }
 
-.footer__menu-link_active{
+.footer__menu-link_active {
     text-decoration: none;
 }
 
